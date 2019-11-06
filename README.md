@@ -12,9 +12,6 @@ I currently have 2 projects :
     
 The data comes from various sources during my time studying Business Analytics at the Fuqua School of Business, so not all data will be publicly availabe although I will link it if it is. 
 
-It is one of the most popular data science competitions (if not the most popular) and is a great place for beginners in data science to start and extend your techniques as you improve. 
-
-
 
 ###
 ---
