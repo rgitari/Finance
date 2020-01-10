@@ -10,8 +10,9 @@ I currently have 2 projects :
 
     Project 1: Markowitz Portfolio Optimization (in R)
     Project 2: Empirical Tests of Various Asset Pricing Models
-    Project 3: Option Pricing
-    Project 4: Dynamic Hedging in R
+    Project 3: Macroeconomic Regimes and Asset Returns - Creating An All Weather Portfolio
+    Project 4: Option Pricing
+    Project 5: Dynamic Hedging in R
     
 
     
