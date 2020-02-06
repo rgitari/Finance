@@ -6,7 +6,7 @@
 ================================================================
 Robert Gitari 
 
-I currently have 2 projects :
+I currently have 4 projects :
 
     Project 1: Markowitz Portfolio Optimization (in R)
     Project 2: Empirical Tests of Various Asset Pricing Models
